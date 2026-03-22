@@ -1,7 +1,7 @@
 ---
 id: research-3
 emoji: 
-image: "images/research/GOAE.jpg"
+image: "images/research/GOAE.png"
 date: 2023-03-15
 title: Make Encoder Great Again in 3D GAN Inversion through Geometry and Occlusion-Aware Encoding
 title_zh: 通过几何与遮挡感知构建3D GAN反演编码器
