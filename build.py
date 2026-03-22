@@ -28,8 +28,8 @@ from datetime import datetime
 # ============================================================
 
 GITHUB_USER = "yiming-zhu-98"          # your GitHub username
-GITHUB_REPO = "yiming-zhu.github.io"   # your repository name
-GITHUB_BRANCH = "main"                  # branch (usually main or master)
+GITHUB_REPO = "yiming-zhu-98.github.io"   # your repository name
+GITHUB_BRANCH = "version1"                  # branch (usually main or master)
 
 # Set to True to use jsDelivr CDN for all images/
 USE_CDN = True
